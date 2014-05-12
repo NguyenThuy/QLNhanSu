@@ -18,7 +18,7 @@ namespace ThucTapNhom1
         QLNhanSuDataContext DB = new QLNhanSuDataContext();
         public frmLogin()
         {
-            InitializeComponent();
+            InitializeComponent() ;
         }
 
         private void frmLogin_Load(object sender, EventArgs e)
