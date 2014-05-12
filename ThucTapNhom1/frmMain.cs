@@ -21,7 +21,7 @@ namespace ThucTapNhom1
         public frmMain(tblUser user)
         {
             this.user = user;
-            InitializeComponent() ;
+            InitializeComponent();
         }
 
         private void frmMain_Load(object sender, EventArgs e)
