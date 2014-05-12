@@ -18,6 +18,10 @@ namespace BLL
         {
             return DB.tblPhongBans.Where(pb => pb.MaPhong == ID).FirstOrDefault();
         }
+        public tblPhongBan findName(string name)
+        {
+            return DB.tblPhongBans.Where(pb=>pb.TenPhong == name).FirstOrDefault();
+        }
 
         public void DeleteID(string ID)
         {
