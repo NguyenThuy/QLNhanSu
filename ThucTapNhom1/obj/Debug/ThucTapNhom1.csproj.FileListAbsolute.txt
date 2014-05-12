@@ -1,0 +1,39 @@
+c:\users\kira moon\documents\visual studio 2012\Projects\ThucTapNhom1\ThucTapNhom1\bin\Debug\ThucTapNhom1.exe.config
+c:\users\kira moon\documents\visual studio 2012\Projects\ThucTapNhom1\ThucTapNhom1\obj\Debug\ThucTapNhom1.csprojResolveAssemblyReference.cache
+c:\users\kira moon\documents\visual studio 2012\Projects\ThucTapNhom1\ThucTapNhom1\obj\Debug\ThucTapNhom1.frmConnect.resources
+c:\users\kira moon\documents\visual studio 2012\Projects\ThucTapNhom1\ThucTapNhom1\obj\Debug\ThucTapNhom1.Properties.Resources.resources
+c:\users\kira moon\documents\visual studio 2012\Projects\ThucTapNhom1\ThucTapNhom1\obj\Debug\ThucTapNhom1.csproj.GenerateResource.Cache
+c:\users\kira moon\documents\visual studio 2012\Projects\ThucTapNhom1\ThucTapNhom1\obj\Debug\ThucTapNhom1.frmLogin.resources
+c:\users\kira moon\documents\visual studio 2012\Projects\ThucTapNhom1\ThucTapNhom1\bin\Debug\ThucTapNhom1.exe
+c:\users\kira moon\documents\visual studio 2012\Projects\ThucTapNhom1\ThucTapNhom1\bin\Debug\ThucTapNhom1.pdb
+c:\users\kira moon\documents\visual studio 2012\Projects\ThucTapNhom1\ThucTapNhom1\obj\Debug\ThucTapNhom1.exe
+c:\users\kira moon\documents\visual studio 2012\Projects\ThucTapNhom1\ThucTapNhom1\obj\Debug\ThucTapNhom1.pdb
+F:\MTA\Visual Studio 2012\Projects\ThucTapNhom1\ThucTapNhom1\bin\Debug\ThucTapNhom1.exe.config
+F:\MTA\Visual Studio 2012\Projects\ThucTapNhom1\ThucTapNhom1\obj\Debug\ThucTapNhom1.exe
+F:\MTA\Visual Studio 2012\Projects\ThucTapNhom1\ThucTapNhom1\obj\Debug\ThucTapNhom1.pdb
+F:\MTA\Visual Studio 2012\Projects\ThucTapNhom1\ThucTapNhom1\bin\Debug\ThucTapNhom1.exe
+F:\MTA\Visual Studio 2012\Projects\ThucTapNhom1\ThucTapNhom1\bin\Debug\ThucTapNhom1.pdb
+F:\MTA\Visual Studio 2012\Projects\ThucTapNhom1\ThucTapNhom1\obj\Debug\ThucTapNhom1.csprojResolveAssemblyReference.cache
+F:\MTA\Visual Studio 2012\Projects\ThucTapNhom1\ThucTapNhom1\obj\Debug\ThucTapNhom1.frmConnect.resources
+F:\MTA\Visual Studio 2012\Projects\ThucTapNhom1\ThucTapNhom1\obj\Debug\ThucTapNhom1.frmLogin.resources
+F:\MTA\Visual Studio 2012\Projects\ThucTapNhom1\ThucTapNhom1\obj\Debug\ThucTapNhom1.Properties.Resources.resources
+F:\MTA\Visual Studio 2012\Projects\ThucTapNhom1\ThucTapNhom1\obj\Debug\ThucTapNhom1.csproj.GenerateResource.Cache
+F:\MTA\Visual Studio 2012\Projects\ThucTapNhom1\ThucTapNhom1\obj\Debug\ThucTapNhom1.frmMain.resources
+F:\MTA\Visual Studio 2012\Projects\ThucTapNhom1\ThucTapNhom1\obj\Debug\ThucTapNhom1.frmAbout.resources
+E:\MTA\Teamwork\QLNhanSu\ThucTapNhom1\ThucTapNhom1\obj\Debug\ThucTapNhom1.exe
+E:\MTA\Teamwork\QLNhanSu\ThucTapNhom1\ThucTapNhom1\obj\Debug\ThucTapNhom1.pdb
+E:\MTA\Teamwork\QLNhanSu\ThucTapNhom1\ThucTapNhom1\obj\Debug\ThucTapNhom1.csprojResolveAssemblyReference.cache
+E:\MTA\Teamwork\QLNhanSu\ThucTapNhom1\ThucTapNhom1\obj\Debug\ThucTapNhom1.frmAbout.resources
+E:\MTA\Teamwork\QLNhanSu\ThucTapNhom1\ThucTapNhom1\obj\Debug\ThucTapNhom1.frmLogin.resources
+E:\MTA\Teamwork\QLNhanSu\ThucTapNhom1\ThucTapNhom1\obj\Debug\ThucTapNhom1.frmMain.resources
+E:\MTA\Teamwork\QLNhanSu\ThucTapNhom1\ThucTapNhom1\obj\Debug\ThucTapNhom1.Properties.Resources.resources
+E:\MTA\Teamwork\QLNhanSu\ThucTapNhom1\ThucTapNhom1\obj\Debug\ThucTapNhom1.csproj.GenerateResource.Cache
+E:\MTA\Teamwork\QLNhanSu\ThucTapNhom1\ThucTapNhom1\bin\Debug\ThucTapNhom1.exe
+E:\MTA\Teamwork\QLNhanSu\ThucTapNhom1\ThucTapNhom1\bin\Debug\ThucTapNhom1.pdb
+E:\MTA\Teamwork\QLNhanSu\ThucTapNhom1\ThucTapNhom1\bin\Debug\BLL.dll
+E:\MTA\Teamwork\QLNhanSu\ThucTapNhom1\ThucTapNhom1\bin\Debug\DAL.dll
+E:\MTA\Teamwork\QLNhanSu\ThucTapNhom1\ThucTapNhom1\bin\Debug\BLL.pdb
+E:\MTA\Teamwork\QLNhanSu\ThucTapNhom1\ThucTapNhom1\bin\Debug\DAL.pdb
+E:\MTA\Teamwork\QLNhanSu\ThucTapNhom1\ThucTapNhom1\obj\Debug\ThucTapNhom1.frmPermission.resources
+E:\MTA\Teamwork\QLNhanSu\ThucTapNhom1\ThucTapNhom1\bin\Debug\help.chm
+E:\MTA\Teamwork\QLNhanSu\ThucTapNhom1\ThucTapNhom1\bin\Debug\ThucTapNhom1.exe.config

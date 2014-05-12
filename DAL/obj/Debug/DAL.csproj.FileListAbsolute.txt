@@ -1,0 +1,6 @@
+E:\MTA\Teamwork\QLNhanSu\ThucTapNhom1\DAL\bin\Debug\DAL.dll
+E:\MTA\Teamwork\QLNhanSu\ThucTapNhom1\DAL\bin\Debug\DAL.pdb
+E:\MTA\Teamwork\QLNhanSu\ThucTapNhom1\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\MTA\Teamwork\QLNhanSu\ThucTapNhom1\DAL\obj\Debug\DAL.dll
+E:\MTA\Teamwork\QLNhanSu\ThucTapNhom1\DAL\obj\Debug\DAL.pdb
+E:\MTA\Teamwork\QLNhanSu\ThucTapNhom1\DAL\bin\Debug\DAL.dll.config

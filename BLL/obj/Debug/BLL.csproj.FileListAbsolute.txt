@@ -1,0 +1,7 @@
+E:\MTA\Teamwork\QLNhanSu\ThucTapNhom1\BLL\bin\Debug\BLL.dll
+E:\MTA\Teamwork\QLNhanSu\ThucTapNhom1\BLL\bin\Debug\BLL.pdb
+E:\MTA\Teamwork\QLNhanSu\ThucTapNhom1\BLL\bin\Debug\DAL.dll
+E:\MTA\Teamwork\QLNhanSu\ThucTapNhom1\BLL\bin\Debug\DAL.pdb
+E:\MTA\Teamwork\QLNhanSu\ThucTapNhom1\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\MTA\Teamwork\QLNhanSu\ThucTapNhom1\BLL\obj\Debug\BLL.dll
+E:\MTA\Teamwork\QLNhanSu\ThucTapNhom1\BLL\obj\Debug\BLL.pdb
