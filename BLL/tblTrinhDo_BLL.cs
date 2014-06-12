@@ -18,10 +18,6 @@ namespace BLL
         {
             return DB.tblTrinhDos.Where(td => td.MaTrinhDo == ID).FirstOrDefault();
         }
-        public tblTrinhDo FindTen(string ten)
-        {
-            return DB.tblTrinhDos.Where(td => td.TenTrinhDo == ten).FirstOrDefault();
-        }
         public void DeleteID(string ID)
         {
             tblTrinhDo td = FindID(ID);
