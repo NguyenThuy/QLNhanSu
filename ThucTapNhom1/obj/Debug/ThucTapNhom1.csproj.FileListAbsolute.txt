@@ -37,3 +37,6 @@ E:\MTA\Teamwork\QLNhanSu\ThucTapNhom1\ThucTapNhom1\bin\Debug\DAL.pdb
 E:\MTA\Teamwork\QLNhanSu\ThucTapNhom1\ThucTapNhom1\obj\Debug\ThucTapNhom1.frmPermission.resources
 E:\MTA\Teamwork\QLNhanSu\ThucTapNhom1\ThucTapNhom1\bin\Debug\help.chm
 E:\MTA\Teamwork\QLNhanSu\ThucTapNhom1\ThucTapNhom1\bin\Debug\ThucTapNhom1.exe.config
+C:\Users\thuynguyen\Documents\GitHub\QLNhanSu\ThucTapNhom1\bin\Debug\ThucTapNhom1.exe.config
+C:\Users\thuynguyen\Documents\GitHub\QLNhanSu\ThucTapNhom1\obj\Debug\ThucTapNhom1.exe
+C:\Users\thuynguyen\Documents\GitHub\QLNhanSu\ThucTapNhom1\obj\Debug\ThucTapNhom1.pdb
