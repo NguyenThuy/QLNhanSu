@@ -16,11 +16,10 @@ namespace BLL
             return DB.tblUsers.ToList();
         }
 
-        public tblUser FindUser(string User, string Pass)
+        public tblUser FindUser(string User)
         {
-            return DB.tblUsers.Where(user => user.UserName == User && user.Pass == Pass).FirstOrDefault();
+            return DB.tblUsers.Where(user => user.UserName == User).FirstOrDefault();
         }
-
         public void DeleteUser(string User)
         {
             tblUser user = new tblUser();
