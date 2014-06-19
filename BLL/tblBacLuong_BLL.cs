@@ -10,6 +10,7 @@ namespace BLL
     public class tblBacLuong_BLL
     {
         QLNhanSuDataContext DB = new QLNhanSuDataContext();
+        //chú thích 
         public List<tblBacLuong> SelectAll()
         {
             return DB.tblBacLuongs.ToList();
